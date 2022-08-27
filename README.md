@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### My Codeforces Stats
+
+![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Mahinr10&theme=1)
+
+
 <!--
 **Mahinr10/Mahinr10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
