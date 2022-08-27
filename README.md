@@ -1,8 +1,10 @@
 ### Hi there 👋
 
+<!--
 ### My Codeforces Stats
 
 ![Codeforces Stats Card](https://codeforces-stats-api.herokuapp.com/stats?username=Mahinr10&theme=1)
+-->
 
 
 <!--
